@@ -1,0 +1,7 @@
+langchain
+langchain-mistralai  # For Mistral AI integration
+langchain-community
+python-dotenv
+faiss-cpu
+tiktoken
+streamlit

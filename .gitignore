@@ -1,0 +1,28 @@
+# Environment variables
+.env
+
+# Python specific
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+*.so
+*.dll
+
+# Virtual environment
+.venv
+venv/
+ENV/
+env/
+venv.bak
+env.bak
+
+# IDE / Editor specific
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# OS specific
+.DS_Store
+Thumbs.db

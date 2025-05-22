@@ -1,0 +1,15 @@
+BuildFastWithAI (BFWA) is an innovative company specializing in AI-driven solutions.
+Our flagship product is the "IntelliBot", a customizable chatbot platform.
+IntelliBot uses advanced Natural Language Processing (NLP) and Machine Learning (ML) to understand user queries and provide relevant answers.
+We offer three pricing tiers for IntelliBot: Basic, Pro, and Enterprise.
+The Basic tier costs $50/month and includes 1000 API calls and standard support.
+The Pro tier costs $200/month and includes 5000 API calls and priority support.
+The Enterprise tier is custom-priced and includes unlimited API calls, dedicated support, and on-premise deployment options.
+BFWA was founded in 2023 by Alex Chen and Sarah Miller.
+Our mission is to democratize AI and make it accessible to businesses of all sizes.
+For support, please contact support@buildfastwithai.com or call 1-800-BFWA-HELP.
+Our headquarters are located in San Francisco, California.
+We are committed to responsible AI development and ethical practices.
+IntelliBot can be integrated with various platforms like Slack, Microsoft Teams, and websites.
+The development team for IntelliBot is led by Dr. Eva Rostova.
+Future plans for IntelliBot include multilingual support and enhanced analytics.
