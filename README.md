@@ -2,6 +2,8 @@
 
 This project is a Retrieval-Augmented Generation (RAG) chatbot that answers questions based on a custom knowledge base. It uses Mistral AI for language understanding, LangChain for the RAG pipeline, and Streamlit for a simple web interface.
 
+<!-- Uploading "Screenshot 2025-05-22 143237.png"... -->
+
 ## What it Does
 
 The chatbot takes a user's question, searches a local text file (`knowledge_base.txt`) for relevant information, and then uses Mistral AI's language model to generate an answer based on that information. This ensures answers are grounded in the provided data.
