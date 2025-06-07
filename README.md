@@ -2,7 +2,7 @@
 
 This project is a Retrieval-Augmented Generation (RAG) chatbot that answers questions based on a custom knowledge base. It uses Mistral AI for language understanding, LangChain for the RAG pipeline, and Streamlit for a simple web interface.
 
-<!-- Uploading "Screenshot 2025-05-22 143237.png"... -->
+![Image](https://github.com/user-attachments/assets/7f85bb41-e00c-4b98-8731-2b66957c7100)
 
 ## What it Does
 
